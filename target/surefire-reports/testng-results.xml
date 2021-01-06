@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="24775" started-at="2021-01-05T22:51:54 PST" finished-at="2021-01-05T22:52:18 PST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24775" started-at="2021-01-05T22:51:54 PST" finished-at="2021-01-05T22:52:18 PST">
+      <class name="com.Test.TestAnnotation">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Test.TestAnnotation@25bbe1b6]" name="setup" is-config="true" duration-ms="1" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test03()[pri:1, instance:com.Test.TestAnnotation@25bbe1b6]" name="test03" duration-ms="1" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Test.TestAnnotation@25bbe1b6]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="test04()[pri:3, instance:com.Test.TestAnnotation@25bbe1b6]" name="test04" duration-ms="0" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Test.TestAnnotation@25bbe1b6]" name="setup" is-config="true" duration-ms="0" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Test.TestAnnotation@25bbe1b6]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Test.TestAnnotation@25bbe1b6]" name="setup" is-config="true" duration-ms="1" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test01()[pri:4, instance:com.Test.TestAnnotation@25bbe1b6]" name="test01" duration-ms="0" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Test.TestAnnotation@25bbe1b6]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Test.TestAnnotation@25bbe1b6]" name="setup" is-config="true" duration-ms="0" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test02()[pri:2, instance:com.Test.TestAnnotation@25bbe1b6]" name="test02" duration-ms="1" started-at="2021-01-05T22:52:18 PST" depends-on-methods="com.Test.TestAnnotation.test01" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Test.TestAnnotation@25bbe1b6]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-01-05T22:52:18 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test.TestAnnotation -->
+      <class name="com.Test.googleTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.Test.googleTest@ff5b51f]" name="test" duration-ms="7245" started-at="2021-01-05T22:52:11 PST" finished-at="2021-01-05T22:52:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.Test.googleTest -->
+      <class name="com.Test.automationpractice_Test">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.Test.automationpractice_Test@1ed4004b]" name="test" duration-ms="17430" started-at="2021-01-05T22:51:54 PST" finished-at="2021-01-05T22:52:11 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.Test.automationpractice_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
