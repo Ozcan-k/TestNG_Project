@@ -13,5 +13,7 @@ public class googleTest {
         driver.get("https://www.google.com/");
         driver.manage().window().maximize();
         System.out.println("*****");
+          System.out.println("*From git");
+        
     }
 }
